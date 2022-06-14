@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "50a842c671dbdc73",
+    "type": "split",
+    "children": [
+      {
+        "id": "0828bf38331daeaa",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "044052a9e74b9a51",
+    "type": "split",
+    "children": [
+      {
+        "id": "0edb885ce9a2d229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bf0f64714c030f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "93c956d7cabb6f7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1733050abbd0f982",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4d8e2efffe472e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e95ae21dc94d421",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0828bf38331daeaa",
+  "lastOpenFiles": [
+    "extend attr.md",
+    "overlayfs.md",
+    "docker.md",
+    "capability.md"
+  ]
+}
