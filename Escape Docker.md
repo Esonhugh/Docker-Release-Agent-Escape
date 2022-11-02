@@ -215,6 +215,9 @@ cat ${OUTPUT_PATH}
 
 https://github.com/torvalds/linux/blame/master/kernel/cgroup/cgroup-v1.c#L972
 
+> This is out of date 
+> Now is https://github.com/torvalds/linux/blob/8f71a2b3f435f29b787537d1abedaa7d8ebe6647/kernel/cgroup/cgroup-v1.c#L979-L987
+
 git blame 一手发现其相关行变更的最后一个提交是
 
 https://github.com/torvalds/linux/commit/24f6008564183aa120d07c03d9289519c2fe02af
